@@ -1,5 +1,4 @@
 # BF-interpreter
-# Brainfuck Interpreter
 
 A simple Brainfuck interpreter written in C++.
 
